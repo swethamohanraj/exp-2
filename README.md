@@ -38,6 +38,7 @@ Upload your HTML, CSS, and any other necessary files to the hosting server.
 ## PROGRAM:
   
 ### HTML CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,10 +101,10 @@ Upload your HTML, CSS, and any other necessary files to the hosting server.
             
         </center>
 </body>  
-
+```
 
 ### CSS CODE:
-      
+```      
 .bod {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -183,13 +184,7 @@ Upload your HTML, CSS, and any other necessary files to the hosting server.
   line-height: 1.2;
   word-spacing: 10px;
 }
-
-
-
-
-
-
- 
+```
 ## OUTPUT
  ![image](https://github.com/swethamohanraj/exp-2/assets/94228215/88ca27d5-c2e1-4878-9dfb-1d60988b421b)
 ![image](https://github.com/swethamohanraj/exp-2/assets/94228215/e2081945-c6d5-4d32-81aa-2eb209c34642)
